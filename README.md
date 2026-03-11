@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Moses Nyongesa
 
-<!--
-**Moses-Nyongesa/Moses-Nyongesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT / Computer Science student  
+📍 Nairobi, Kenya  
 
-Here are some ideas to get you started:
+I’m currently learning:
+- SQL
+- Database Design
+- Git & GitHub
+- Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+Building strong fundamentals in databases and backend systems.
+
+---
+
+## 📂 Featured Project
+
+### SQL Learning
+A collection of SQL practice queries and database exercises.
+
+Topics covered:
+- SELECT queries
+- JOINS
+- Aggregations
+- Table creation
+
+---
+
+## 🛠 Tech Stack
+- SQL
+- Git
+- GitHub
+- Java (learning)
+
+---
+
+## 📈 Goals
+- Master SQL and database systems
+- Build backend projects
+- Contribute to open source
+- Secure a strong tech attachment
